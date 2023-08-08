@@ -1,0 +1,60 @@
+img {
+    border-radius: 100%;
+    height: 250px;
+    width: 250px;
+    object-position: center;
+    object-fit: cover;
+}
+body {
+    border-radius: 2px;
+}
+h1 {
+    padding-right: 30%;
+    padding-left: 30%;
+    text-align: center;
+}
+p {
+    padding-left: 30%;
+    padding-right: 30%;
+    text-align: center;
+}
+.center {
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+}
+span {
+    color: grey;
+    font-weight: 400;
+}
+hr {
+    width: 50%;
+}
+h3 {
+    padding-right: 30%;
+    padding-left: 30%;
+}
+.text-besar {
+    font-size: 40px;
+    text-align: center;
+}
+.table-center {
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+}
+.table-width {
+    width: 50%;
+}
+.text-kecil {
+    text-align: center;
+}
+.box {
+    border: 1px grey solid;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    width: 50%;
+    margin :auto;
+    margin-top: 10%;
+
+}
