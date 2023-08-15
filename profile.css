@@ -4,6 +4,7 @@ img {
     width: 250px;
     object-position: center;
     object-fit: cover;
+    display: flex;
 }
 body {
     border-radius: 2px;
@@ -58,3 +59,4 @@ h3 {
     margin-top: 10%;
 
 }
+

@@ -1,0 +1,37 @@
+ .box {
+     border: 1px grey solid;
+ }
+ 
+ .center {
+     border-top-left-radius: 10px;
+     border-top-right-radius: 10px;
+     width: 250px;
+     object-position: center;
+     object-fit: contain;
+     display: flex;
+ }
+ 
+ .card {
+     text-align: center;
+     border: 1px grey solid;
+     border-radius: 10px;
+     width: 250px;
+ }
+ 
+ .container {
+     width: 100%;
+     margin: auto;
+     display: flex;
+     justify-content: center;
+ }
+ 
+ .button {
+     width: 80%;
+     padding: 8px;
+     margin-bottom: 10px;
+     background-color: rgb(203, 203, 12);
+     font-weight: 700;
+     text-decoration: none;
+     border: none;
+     border-radius: 5px;
+ }

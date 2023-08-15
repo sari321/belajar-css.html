@@ -1,0 +1,30 @@
+.poster-berita {
+    width: 100px;
+    height: 120px;
+    margin-right: 20px;
+    border-radius: 10px;
+}
+
+.menu {
+    background-color: rgb(234, 233, 233);
+    width: 400px;
+    border-radius: 30px;
+    padding: 4px;
+    margin: 10px;
+}
+
+.box {
+    width: 130px;
+    height: 120px;
+    padding-right: 20px;
+    display: flex;
+    width: 400px;
+    margin: 5px;
+    border-radius: 20px;
+    border: 20px;
+    align-items: center;
+}
+
+.p {
+    color: rgb(2, 57, 2);
+}

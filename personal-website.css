@@ -1,0 +1,58 @@
+.foto-profile {
+    border-radius: 100%;
+    width: 100px;
+    height: 100px;
+    margin: auto;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding-left: 44%;
+    padding-right: 44%;
+    
+}
+.profile {
+    text-align: center;
+    margin: auto;
+    margin-left: auto;
+    margin-right: auto;
+    object-position: center;
+    object-fit: cover;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+h3 {
+    padding-left: 30%;
+    padding-right: 30%;
+    text-align: center;
+}
+p {
+    padding-left: 30%;
+    padding-right: 30%;
+    text-align: center;
+}
+.grid-container {
+    margin-right: 20px;
+    object-position: center;
+    margin: auto;
+    margin-left: auto;
+    margin-right: auto;
+
+
+}
+.grid {
+    justify-content: center;
+    width: 100%;
+    margin: auto;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-gap: 10px;
+
+}
+hr {
+    width: 30%;
+}
+.user {
+    width: 100px;
+    height: 100px;
+    padding: 20px;
+}
